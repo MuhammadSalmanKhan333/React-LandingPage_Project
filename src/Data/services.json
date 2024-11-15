@@ -1,0 +1,40 @@
+
+[
+    {
+        "id":1,
+        "title":"Web Development",
+        "image": "../images/product-01.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat harum ipsa fugit. Inventore officia recusandae maxime ullam qui laborum aliquid."
+
+    },
+    {
+        "id":2,
+        "title":"App Development",
+        "image":"../images/product-05.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat harum ipsa fugit. Inventore officia recusandae maxime ullam qui laborum aliquid."
+    },
+    {
+        "id":3,
+        "title":"Graphic Designing",
+        "image":"../images/product-03.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat harum ipsa fugit. Inventore officia recusandae maxime ullam qui laborum aliquid."
+    },
+    {
+        "id":4,
+        "title":"Digital Marketing",
+        "image":"../images/product-02.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat harum ipsa fugit. Inventore officia recusandae maxime ullam qui laborum aliquid."
+    },
+    {
+        "id":5,
+        "title":"Video Editing",
+        "image":"../images/product-04.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat harum ipsa fugit. Inventore officia recusandae maxime ullam qui laborum aliquid."
+    },
+    {
+        "id":6,
+        "title":"Content Writing",
+        "image":"../images/product-06.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat harum ipsa fugit. Inventore officia recusandae maxime ullam qui laborum iste non aliquid."
+    }
+]
